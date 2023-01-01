@@ -8,6 +8,7 @@
 A server is a computer or device that provides a service to another computer, device, or client.
 
 Servers are often used to host websites, store data, and run applications, and they can be physical or virtual. 
+
 When a client makes a request for a service, the server performs the necessary tasks and sends the results back to the client.
 
 Some examples of servers include web servers, database servers, file servers, and application servers.
